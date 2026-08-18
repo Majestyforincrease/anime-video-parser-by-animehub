@@ -37,3 +37,10 @@ validated again after every hop.
 - treating an arbitrary URL as a video proxy target;
 - assuming one provider's response shape is stable forever.
 
+## Redacted fixtures
+
+The files in examples/ are intentionally small, synthetic payloads. They are
+safe regression inputs for the adapters and are exercised by the test suite.
+When a provider changes its response shape, add the smallest redacted fixture
+that reproduces the change and update the matching test. Never commit a real
+token, cookie, account identifier or private media URL.
