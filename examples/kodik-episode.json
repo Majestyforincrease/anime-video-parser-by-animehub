@@ -1,0 +1,11 @@
+{
+  "translation": {
+    "id": "example",
+    "title": "Example dub"
+  },
+  "stream": {
+    "hls_1080": "https://kodik.info/episode/example/master_1080.m3u8",
+    "hls_720": "https://kodik.info/episode/example/master_720.m3u8"
+  }
+}
+

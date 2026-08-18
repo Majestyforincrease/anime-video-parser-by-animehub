@@ -1,0 +1,9 @@
+{
+  "release": {
+    "title": "Example release",
+    "player": {
+      "hls": "https://anilibria.top/episodes/20/1/master_1080.m3u8"
+    }
+  }
+}
+

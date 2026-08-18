@@ -1,0 +1,11 @@
+{
+  "release": {
+    "player": {
+      "quality": {
+        "1080": "https://video1.cdnlibs.org/uploads/converted_videos/anime/20/player/1/example_1080.mp4",
+        "720": "https://video1.cdnlibs.org/uploads/converted_videos/anime/20/player/1/example_720.mp4"
+      }
+    }
+  }
+}
+
